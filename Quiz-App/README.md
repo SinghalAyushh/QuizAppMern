@@ -80,7 +80,7 @@ Start the both server on seprate terminals
 
 
 
- ### NOTE:  You can also create CI/CD pipeline for easy and automatic deployment whenver code is pushed for this you can use following services in AWS(Codepipeline,CodeDeploy,CodeBuild,EC2/Elasticbeanstalk).
+ ### NOTE:  You can also create CI/CD pipeline for easy and automatic deployment whenver code is pushed for this you can use following services in AWS(Codepipeline,CodeDeploy,CodeBuild,EC2/Elasticbeanstalk) Or we can use different CI/CD pipelines example : Jenkins,CircleCI,Azure CI/CD etc.
 
 
 
